@@ -30,7 +30,7 @@ function setZoomLevel(zoomLevel) {
 }
 
 // Set the zoom level to 80%
-setZoomLevel('100%');
+setZoomLevel('90%');
 
 
 // scrool nav bar here
